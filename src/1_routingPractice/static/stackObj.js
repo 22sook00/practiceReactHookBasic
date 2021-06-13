@@ -1,0 +1,22 @@
+const stackObj = [
+  {id : 1, type : 'front-end' ,skill : 'HTML'},
+  {id : 2, type : 'front-end' ,skill : 'CSS'},
+  {id : 3, type : 'front-end' ,skill : 'JavaScript'},
+  {id : 4, type : 'front-end' ,skill : 'Jquery'},
+  {id : 5, type : 'front-end' ,skill : 'React'},
+  {id : 6, type : 'front-end' ,skill : 'React Hook'},
+  {id : 7, type : 'front-end' ,skill : 'Styled Components'},
+  {id : 8, type : 'back-end' ,skill : 'Node.js'},
+  {id : 9, type : 'back-end' ,skill : 'PHP'},
+  {id : 10, type : 'back-end' ,skill : 'SQL'},
+  {id : 11, type : 'back-end' ,skill : 'JAVA'},
+  {id : 12, type : 'back-end' ,skill : 'C++'},
+  {id : 13, type : 'back-end' ,skill : 'MongoDB'},
+  {id : 14, type : 'back-end' ,skill : 'Python'},
+  {id : 15, type : 'etc' ,skill : 'git'},
+  {id : 16, type : 'etc' ,skill : 'Linux'},
+  {id : 17, type : 'front-end' ,skill : '없음'},
+  {id : 18, type : 'back-end' ,skill : '없음'},
+  {id : 19, type : 'etc' ,skill : '없음'},
+]
+export default stackObj;
